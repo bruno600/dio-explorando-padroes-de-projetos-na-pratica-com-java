@@ -1,5 +1,5 @@
 # DIO - Padrões de projeto com Spring
-## foram utilizado os padrões
+## foram explorados os padrões
 - Singleton
 - Strategy
 - Facade
